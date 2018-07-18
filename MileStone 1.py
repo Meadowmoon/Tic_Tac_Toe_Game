@@ -135,5 +135,3 @@ if __name__ == '__main__':
 
         if not replay():
             break
-        else:
-            continue
